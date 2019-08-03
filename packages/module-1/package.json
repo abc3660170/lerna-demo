@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "tchen-module-1",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "glob": "^7.1.4"
   },
-  "gitHead": "96e23262e6f3d8ec8214b0fa5d8cca14463543bb"
+  "gitHead": "b54857559bf6f8b164718049f9a41590cca49d0e"
 }
